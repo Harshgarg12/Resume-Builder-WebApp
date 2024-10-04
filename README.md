@@ -1,6 +1,8 @@
 # Resume-Builder-WebApp
 Resume Builder WebApp
 
+## Installation
+Clone the Repository:
 ```bush
-GitHub https://github.com/Harshgarg12/Resume-Builder-WebApp.git
+ https://github.com/Harshgarg12/Resume-Builder-WebApp.git
 ```
