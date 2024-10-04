@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-weight: 500;
+    font-size: 14px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+.nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.navbtn {
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.navbtn:hover {
+    background-color: #444;
+}
+.resume {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.head {
+    background-color: #f7f7f7;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+.post {
+    font-size: 18px;
+    color: #666;
+}
+.contacts {
+    font-size: 16px;
+    color: #666;
+}
+.symbol {
+    margin: 0 10px;
+}
+.line {
+    border-bottom: 1px solid #ddd;
+    margin: 20px 0;
+}
+.mainbody {
+    display: flex;
+    justify-content: space-between;
+}
+.leftside {
+    width: 40%;
+    padding: 20px;
+}
+.rightside {
+    width: 60%;
+    padding: 20px;
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.skill, .language, .achieve {
+    margin-bottom: 10px;
+}
+.input-checkbox {
+    margin: 0 10px;
+}
+.btn {
+    margin: 10px;
+}
+.border {
+    border-right: 1px solid #ddd;
+    height: 100%;
+}
